@@ -1,1 +1,13 @@
-This is File 1 to erlnafklsdnfkldfnlkasnfkdf
+This is File 1 to write Hello World!
+
+class MyClass{
+public static void main(){
+
+System.out.println(" Hello World! Welcome to git");
+
+}
+
+
+
+}
+
