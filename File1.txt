@@ -1,6 +1,9 @@
 This is File 1 to write Hello World!
 
 class MyClass{
+void myMethod(){
+System.out.print("modified");
+}
 public static void main(String []args){
 
 System.out.println(" Hello World! Welcome to git");
