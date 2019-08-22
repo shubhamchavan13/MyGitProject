@@ -1,5 +1,6 @@
 This is file2
 
-change is made
-changes is made
-change 3 and we will pull it
+Change is made
+Changes is made
+Change 3 and we will pull it
+Change 5
